@@ -12,42 +12,43 @@ h1 {
   color: black;
 }
 
-section {
-  border: 1px solid black;
+
+p {
   background-color: #fffded;
+  border: 2px solid black;
+  padding: 60px 10px 10px 10px;
   margin: 10px;
-  padding: 0px 10px 10px 10px;
 }
 
 
-section>h2 {
-  border: 1px solid black;
-	text-align: center;
-	width: 30%;
-	font-weight: bold;
-	font-size: 150%;
-	margin-bottom: 10px;
-	margin-top: 0;
-	padding: 5px;
-	margin-left: 73%;
+#container {
+  position: relative;
+  
 }
 
-section.capybara>h2 {
+#animal {
+  position: absolute;
+  border: 2px solid black;
+  top: 0;
+  right: 0;
+  font-size: 125%;
+  font-weight: bold;
+  width: 30%;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.capybara {
   background-color: #ff7c8c;
-  width: 40%;
-  margin-left: 63%;
 }
 
-section.dog>h2 {
-  background-color: #ffce81;
+.dog {
+  background-color:#ffce81 ;
 }
 
-section.tiger>h2 {
-  background-color: #ff8a7a;
-}
-
-section>p {
-  padding: 40px 15px 15px 15px;
+.tiger {
+ background-color: #ff8a7a;
 }
 
 .row {
