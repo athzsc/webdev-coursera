@@ -6,3 +6,5 @@ Enrollment period: 06.04.2022 - ?
 This repository contains my solutions for the course assignments.
 ### Module 2
 [Solution](https://athzsc.github.io/webdev-coursera/mod2_solution/)
+### Module 3
+[Solution](https://athzsc.github.io/webdev-coursera/mod3_solution/)
