@@ -8,3 +8,5 @@ This repository contains my solutions for the course assignments.
 [Solution](https://athzsc.github.io/webdev-coursera/mod2_solution/)
 ### Module 3
 [Solution](https://athzsc.github.io/webdev-coursera/mod3_solution/)
+### Module 4
+[Solution](https://athzsc.github.io/webdev-coursera/mod4_solution/)
