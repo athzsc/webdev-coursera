@@ -1,6 +1,6 @@
 # Coursera Course: HTML, CSS, and Javascript for Web Developers
 Find the course [here](https://www.coursera.org/learn/html-css-javascript-for-web-developers?)\
-Enrollment period: 06.04.2022 - ?
+Enrollment period: 06.04.2022 - 25.05.2022
 
 ## Assignments
 This repository contains my solutions for the course assignments.
